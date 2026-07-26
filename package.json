@@ -2,6 +2,5 @@
   "devDependencies": {
     "@types/node": "^26.1.1"
   },
-
-  "license" : "MIT"
+  "license": "MIT"
 }
